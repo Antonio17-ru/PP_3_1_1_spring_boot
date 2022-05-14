@@ -1,6 +1,6 @@
 package com.example.pp_3_1_1_spring_boot.controller;
 
-import com.example.pp_3_1_1_spring_boot.models.User;
+import com.example.pp_3_1_1_spring_boot.model.User;
 import com.example.pp_3_1_1_spring_boot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

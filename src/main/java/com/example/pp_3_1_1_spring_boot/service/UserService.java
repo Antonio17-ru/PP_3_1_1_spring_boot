@@ -1,7 +1,7 @@
 package com.example.pp_3_1_1_spring_boot.service;
 
 import com.example.pp_3_1_1_spring_boot.repository.UserRepository;
-import com.example.pp_3_1_1_spring_boot.models.User;
+import com.example.pp_3_1_1_spring_boot.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
